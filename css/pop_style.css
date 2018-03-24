@@ -1,0 +1,47 @@
+body {
+    margin: 4px;
+    margin-left: 8px;
+    white-space: nowrap;
+    margin-right: 28px;
+  }
+
+  h1 {
+    font-size: 15px;
+  }
+
+  #txt_remaining {
+    font-size: 18px;
+    font-variant: normal;
+    margin-top: -6px;
+    color: #292929;
+  }
+
+  #txt_leave {
+   font-size: 12px;
+   font-variant: normal;
+   margin-top: -14px;
+   color: #292929;
+   margin-bottom: 2px;
+ }
+ #txt_more {
+   font-size: 9px;
+   font-variant: normal;
+   margin-top: -5px;
+   display: inline;
+   color: #4D7BD6;
+   margin-left: 16px;
+   text-decoration: none;
+ }
+ #txt_server_time {
+  font-size: 8px;
+  margin-top: -5px;
+  font-variant: normal;
+  color: #d0d0d0;
+  display: inline;
+}
+
+#container {
+  align-items: center;
+  display: block;
+  justify-content: space-between;
+}

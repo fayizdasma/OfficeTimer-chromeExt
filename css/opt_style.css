@@ -1,0 +1,56 @@
+div.checkbox-option {
+	color: #2b2b2b;
+	font-size: 18px;
+	margin: 18px 18px 18px 18px;
+}
+
+input[type="checkbox"] {
+	height: 1.3em;
+	width: 1.3em;
+	vertical-align: middle;
+	margin: 0px 0.4em 0.3em 0px;
+	border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 6px 16px;
+	text-align: center;
+	text-decoration: none;
+	margin:auto;
+	display:block;
+	font-size: 14px;
+	background-color: white;
+	color: black;
+	border: 2px solid #000000;
+}
+
+#text_labels{
+	color: #2b2b2b;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#text_footer{
+	color: #e4e4e4;
+	font-size: 9px;
+	margin-top: 15px;
+}
+
+#text_version , #btn_checkUpdate{
+	color: #6d6d6d;
+	font-size: 12px;
+	display: inline;
+	margin-top: 15px;
+}
+
+#btn_checkUpdate{
+	margin-left: 5px;
+}
+
+#options-page-wrapper{
+	max-width: 500px;
+	margin: auto;
+}
